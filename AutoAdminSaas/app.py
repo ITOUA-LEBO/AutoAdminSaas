@@ -141,7 +141,7 @@ elif menu == "Abonnement Pro":
     st.write("Ce module permet de simuler l'intégration Stripe.")
 
     # Bouton HTML personnalisé pour ressembler à un vrai bouton de paiement
-    STRIPE_LINK = "#"  # Tu mettras ton vrai lien Stripe ici plus tard
+    STRIPE_LINK = "https://buy.stripe.com/28EeVc68X1077b14za87K00"  # Tu mettras ton vrai lien Stripe ici plus tard
 
     st.markdown(f"""
     <div style="text-align: center; margin-top: 20px;">
