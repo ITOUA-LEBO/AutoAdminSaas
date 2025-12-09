@@ -1,0 +1,6 @@
+streamlit
+openai
+fpdf
+python-dotenv
+pandas
+watchdog
