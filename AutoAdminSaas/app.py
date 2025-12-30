@@ -11,7 +11,7 @@ SYSTEM_LETTER = "Tu es un assistant administratif expert. Rédige un courrier fo
 SYSTEM_SUMMARY = "Tu es un assistant de synthèse. Résume ce texte administratif : 1. Points clés, 2. Actions à faire (To-Do), 3. Dates/Montants importants."
 
 # --- CONFIGURATION DE LA PAGE WEB ---
-st.set_page_config(page_title="AutoAdmin", page_icon="📂", layout="wide")
+st.set_page_config(page_title="Maelys Line", page_icon="📂", layout="wide")
 st.title("📂 AutoAdmin - Assistant Freelance")
 
 # --- BARRE LATÉRALE (MENU) ---
